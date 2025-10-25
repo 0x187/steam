@@ -26,3 +26,8 @@ go.work.sum
 
 # Bin
 bin/
+
+# Local configuration and session data
+config.yaml
+config.yml
+.local/steam-booster/

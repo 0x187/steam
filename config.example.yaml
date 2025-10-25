@@ -1,0 +1,9 @@
+username: your_user
+# password: your_pass  # optional; prefer ENV
+appids: [730, 570]
+max_concurrent: 2
+heartbeat_sec: 60
+backoff_min_sec: 1
+backoff_max_sec: 60
+log_level: info
+socks5: "socks5://127.0.0.1:1080"
